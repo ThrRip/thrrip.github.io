@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "公告：ThrRip 的开源项目主页开始运行"
+date:   2020-11-18 19:51:55 +0800
+categories: notice
+---
+好了好了，终于好了，折腾了两天 Jekyll、Bundler、Gem、Ruby，终于搭建好了这个 Jekyll 博客。也不知道国外那些人怎么弄的，感觉好像他们因为网络优势，比我们国内容易好多。
+
+以后这里就是 ThrRip 在 GitHub 的唯一开源项目主页，所有 ThrRip 的开源项目，都会在这里发布。
+
+本站地址：thrrip.github.io  
+备用地址：gp.thrrip.space（国内无代理访问速度优化）
