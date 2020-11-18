@@ -8,5 +8,5 @@ categories: notice
 
 以后这里就是 ThrRip 在 GitHub 的唯一开源项目主页，所有 ThrRip 的开源项目，都会在这里发布。
 
-本站地址：thrrip.github.io  
-备用地址：gp.thrrip.space（国内无代理访问速度优化）
+GitHub Pages 源站地址：[thrrip.github.io](https://thrrip.github.io)  
+反代站点地址：[gh-pages.thrrip.space](https://gh-pages.thrrip.space)（提升国内访问速度）
