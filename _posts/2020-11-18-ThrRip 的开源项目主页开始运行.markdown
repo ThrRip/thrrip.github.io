@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "公告：ThrRip 的开源项目主页开始运行"
+title:  "ThrRip 的开源项目主页开始运行"
 date:   2020-11-18 19:51:55 +0800
 categories: notice
 ---
